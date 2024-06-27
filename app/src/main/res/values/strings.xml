@@ -1,0 +1,39 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Kinds of Bear</string>
+    <string name="bear_name_1">Brown Bear</string>
+    <string name="bear_name_2">Grizzly Bear</string>
+    <string name="bear_name_3">Kodiak Bear</string>
+    <string name="bear_name_4">Giant Panda</string>
+    <string name="bear_name_5">Sun Bear</string>
+    <string name="bear_name_6">Kemode Bear</string>
+    <string name="bear_name_7">Tibetan Bear</string>
+    <string name="bear_name_8">Sloth Bear</string>
+    <string name="bear_name_9">Polar Bear</string>
+    <string name="bear_description_1">Common Forest Dweller</string>
+    <string name="bear_description_2">Large Brown Humpback</string>
+    <string name="bear_description_3">An Alaskan Giant</string>
+    <string name="bear_description_4">Iconic Bamboo Lover</string>
+    <string name="bear_description_5">Smallest Dark Bear</string>
+    <string name="bear_description_6">Climbs a Crab Apple Tree</string>
+    <string name="bear_description_7">Very Shy of Human Contact</string>
+    <string name="bear_description_8">Shaggy Insect Eater</string>
+    <string name="bear_description_9">Arctic White Fur</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about bears.</string>
+</resources>
