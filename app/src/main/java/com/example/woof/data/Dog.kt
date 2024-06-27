@@ -34,6 +34,6 @@ val dogs = listOf(
     Dog(R.drawable.sunbear, R.string.bear_name_5, 18, R.string.bear_description_5),
     Dog(R.drawable.kermodebear, R.string.bear_name_6, 22, R.string.bear_description_6),
     Dog(R.drawable.tibetanbear, R.string.bear_name_7, 11, R.string.bear_description_7),
-    Dog(R.drawable.slothbear, R.string.bear_name_8, 10, R.string.bear_description_8),
+    Dog(R.drawable.slothbear, R.string.bear_name_8, 11, R.string.bear_description_8),
     Dog(R.drawable.polarbear, R.string.bear_name_9, 31, R.string.bear_description_9)
 )
